@@ -1,0 +1,1 @@
+"""LegaliQ application package."""

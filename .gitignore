@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+.env
+.env.*
+data/chroma/
+data/*.sqlite3
+*.db
+*.sqlite3
+
+desktop.ini
